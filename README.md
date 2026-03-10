@@ -1,70 +1,160 @@
+# NanelOps · Ángel Millán
+
 <div align="center">
-  
-# [Hi! everybody, I´m Ángel Millán or NanelOps]
 
-<!--- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) --->
-<!--- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) --->
-<!--- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) --->
-![Linux](https://img.shields.io/badge/linux-000000?logo=linux&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![Script](https://img.shields.io/badge/script-0052CC?logo=script&logoColor=white&style=for-the-badge)
-![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
-![Cisco](https://img.shields.io/badge/cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
-![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-FF6F61?logo=brain&logoColor=white&style=for-the-badge)
-<!--- ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) --->
-<!--- ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) --->
-<!--- ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) --->
-<!--- ![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white) --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f2e,100:00C9A7&height=200&section=header&text=Hey%2C%20I%27m%20NanelOps%20%F0%9F%91%8B&fontSize=42&fontColor=00C9A7&fontAlignY=38&desc=SysAdmin%20%7C%20Platform%20Engineer%20%7C%20DevOps%20%40%20PepperInc&descSize=18&descAlignY=58&descColor=8BE9FD&animation=twinkling" />
+  <img width="100%" alt="NanelOps Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4ff,50:dbeafe,100:00C9A7&height=200&section=header&text=Hey%2C%20I%27m%20NanelOps%20%F0%9F%91%8B&fontSize=42&fontColor=0f172a&fontAlignY=38&desc=SysAdmin%20%7C%20Platform%20Engineer%20%7C%20DevOps%20%40%20PepperInc&descSize=18&descAlignY=58&descColor=0369a1&animation=twinkling" />
+</picture>
 
-# [I´m SysAdmin, Platform Engineer and DevOps for PepperInc]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Cloud+Computing+%7C+DevOps+Philosophy;Infrastructure+as+Code+%7C+IaC;Multi-Cloud%3A+AWS+%7C+Azure+%7C+GCP;Automation+%7C+CI%2FCD+%7C+Zero+Downtime)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NanelOps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelrmh)
+[![Website](https://img.shields.io/badge/PepperInc-pepperinc.net-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.pepperinc.net)
+[![Email](https://img.shields.io/badge/Email-angel.millan%40pepperinc.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.millan@pepperinc.net)
+[![Profile Views](https://komarev.com/ghpvc/?username=angelrmh&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS)](https://github.com/angelrmh)
 
 </div>
 
-[![Pepperinc-03](https://github.com/user-attachments/assets/77889f3f-18e6-47f4-8b25-e438c5f2cfcc)](http://www.pepperinc.net)
+---
 
-## Who am I?
+## 🧭 About Me
 
-- 👋 Hi, I’m @angelrmh or NanelOps
-- 👀 I’m interested in music, sports, sneakers, gaming and obviously Tech
-- 🌱 I´m SysAdmin and SysOps, currently focused on Cloud Computing through the application of DevOps philosophy and tools
-- 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me angelrmh10@gmail.com or angel.millan@pepperinc.net
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
-  
+```yaml
+name:        "Ángel Millán (NanelOps)"
+handle:      "@angelrmh"
+location:    "Venezuela 🇻🇪"
+company:     "PepperInc"
+role:        ["SysAdmin", "Platform Engineer", "DevOps Engineer"]
+focus:       "Cloud Computing · DevOps Culture · Infrastructure Automation"
+currently:   "Expanding multi-cloud skills across AWS, Azure & GCP"
+looking_for: "Collaborating with startups & open source projects"
+pronouns:    "he/him"
+interests:   ["music 🎵", "sports ⚽", "sneakers 👟", "gaming 🎮", "tech 💻"]
+contact:
+  - "angelrmh10@gmail.com"
+  - "angel.millan@pepperinc.net"
+```
 
-<div align="center"> 
-  
-## NanelOps GitHub Stats
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ Cloud Platforms
+
+<div align="center">
+
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
-<p align="center">
-  <!-- Claro -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=vue-dark" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=vue" />
-  </picture>
+### 🔧 DevOps & Automation
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&card_width=150&theme=vue-dark" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&card_width=150&theme=vue" />
-  </picture>
-</p>
+<div align="center">
 
-<!---
-angelrmh/angelrmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+### 💻 OS, Networking & Scripting
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+### 🧰 Tools & IDE
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Tools-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=googledeepmind&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true" />
+  <img height="165" alt="NanelOps GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&count_private=true&theme=vue&border_radius=10&include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=false" />
+  <img height="165" alt="NanelOps Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&theme=vue&border_radius=10" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=angelrmh&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <img alt="NanelOps GitHub Streak" src="https://streak-stats.demolab.com?user=angelrmh&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=angelrmh&theme=tokyonight&column=7&no-frame=false&margin-w=8" />
+  <img alt="NanelOps GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=angelrmh&theme=flat&column=7&no-frame=false&margin-w=8" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=angelrmh&theme=tokyo-night&area=true&hide_border=false&radius=8" />
+  <img width="100%" alt="NanelOps GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=angelrmh&theme=vue&area=true&hide_border=false&radius=8" />
+</picture>
+
+---
+
+## 🚀 About PepperInc
+
+<div align="center">
+
+[![PepperInc Banner](https://github.com/user-attachments/assets/77889f3f-18e6-47f4-8b25-e438c5f2cfcc)](http://www.pepperinc.net)
+
+Cloud Infrastructure · DevOps Consulting · Platform Engineering
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:1a1f2e,100:0D1117&height=120&section=footer" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:dbeafe,100:f0f4ff&height=120&section=footer" />
+</picture>
+
+> "If you have to do it twice, automate it."
+
+</div>
