@@ -93,12 +93,12 @@ contact:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true" />
-  <img height="165" alt="NanelOps GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&count_private=true&theme=vue&border_radius=10&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-five-90.vercel.app/api?username=angelrmh&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true" />
+  <img height="165" alt="NanelOps GitHub Stats" src="https://github-readme-stats-tau-five-90.vercel.app/api?username=angelrmh&show_icons=true&count_private=true&theme=vue&border_radius=10&include_all_commits=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=false" />
-  <img height="165" alt="NanelOps Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&theme=vue&border_radius=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-five-90.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=false" />
+  <img height="165" alt="NanelOps Top Languages" src="https://github-readme-stats-tau-five-90.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&theme=vue&border_radius=10" />
 </picture>
 
 </div>
@@ -114,13 +114,30 @@ contact:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Profile Summary
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=angelrmh&theme=tokyonight&column=7&no-frame=false&margin-w=8" />
-  <img alt="NanelOps GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=angelrmh&theme=flat&column=7&no-frame=false&margin-w=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelrmh&theme=tokyonight" />
+  <img width="100%" alt="NanelOps Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelrmh&theme=vue" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelrmh&theme=tokyonight" />
+  <img height="180" alt="NanelOps Repos Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelrmh&theme=vue" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelrmh&theme=tokyonight" />
+  <img height="180" alt="NanelOps Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelrmh&theme=vue" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelrmh&theme=tokyonight" />
+  <img height="180" alt="NanelOps Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelrmh&theme=vue" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelrmh&theme=tokyonight&utcOffset=-4" />
+  <img height="180" alt="NanelOps Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelrmh&theme=vue&utcOffset=-4" />
 </picture>
 
 </div>
