@@ -13,6 +13,7 @@
 [![Website](https://img.shields.io/badge/PepperInc-pepperinc.net-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.pepperinc.net)
 [![Portfolio](https://img.shields.io/badge/Portfolio-NanelOps-00C9A7?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pepperinc.net/portfolio/nanelops)
 [![Email](https://img.shields.io/badge/Email-angel.millan%40pepperinc.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.millan@pepperinc.net)
+[![Gmail](https://img.shields.io/badge/Gmail-angelrmh10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelrmh10@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=angelrmh&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS)](https://github.com/angelrmh)
 
 </div>
